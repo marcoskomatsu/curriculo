@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Lorem Ipsum etc e tal
+Lorem Ipsum etc e tal mudando
 
 ### Specialized in
 
